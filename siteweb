@@ -1,0 +1,82 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site des evenements - Frenchcoder</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style de site.css">
+</head>
+<body>
+    <nav>
+        <h1>Eventy</h1>
+        <div class="onglets">
+            <a href="#">Home</a>
+            <a href="#evenements">Nos evenements</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+    <header>
+        <h1>Eventy,</h1>
+        <h4>Acceder et créer vos evènements.</h4>
+        <<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfwVhfdLtRofazA3ag2aNqA9vyV0TY1eiU7Jqoo-RGAIUetxw/viewform?embedded=true" width="640" height="1064" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+        <input type="button" value="Inscription">
+    </header>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhQ_H3QUUn3gKQjWjUXScX1XFWQpQ4qtLFLJPXHh_FlUQKzA/viewform?embedded=true" width="640" height="855" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+        <input type="button" value="Ajout d'un evènement">
+    <header>
+
+    </header>
+
+    <section class="main" id="produits">
+
+        <div class="content">
+            <div class="card">
+                <div class="left">
+                    <h1>Notre vision</h1>
+                    <p>tous les événements que vous souhaitez vous seront présentés par la touche d'un clavier. </p>
+                </div>
+                <img src="https://st.depositphotos.com/1005844/3526/i/950/depositphotos_35261859-stock-photo-compass-vision.jpg" 
+                    alt="">
+                </div>
+
+            <div class="card">
+                <div class="left">
+                    <h1>Notre but</h1>
+                    <p>Nous mettons à votre disposition la chance de réalisation vos propres évenements</p>
+                </div>
+                <div class="right">
+                    <img src="https://www.solidaires-en-gruyere.ch/fileadmin/Images/Icons/LeBut-SnG.png" 
+                    alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <h1>Nos services</h1>
+        <div class="services">
+            
+            <div class="service">
+                <h3>Consulter les évenements</h3>
+                <p>Consulter nos evènements plus proches de de votre emplacement avec tous detailles.</p>
+            </div>
+
+            <div class="service">
+                <h3>Insicription en ligne</h3>
+                <p>Inscription en ligne aprés remplir le formulaire concernant</p>
+            </div>
+
+            <div class="service">
+                <h3>Création des evènements</h3>
+                <p>Obtenir l'opportunité de créer votre evènement avec accés à tous les détails</p>
+            </div>
+
+        </div>
+
+        <p id="contact">Contact : 53 116 483| &copy; 2022, Eventy .</p>
+    </footer>
+</body>
+</html>
+
+
+
